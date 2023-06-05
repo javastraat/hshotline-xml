@@ -3,18 +3,18 @@
 <Prompt>Select your option...</Prompt>
 <MenuItem>
 <Name>Hamshack Features</Name>
-<URL>http://192.168.2.222:8123/local/cisco/hs-features.xml</URL>
+<URL>https://raw.githubusercontent.com/javastraat/hshotline-xml/main/hs-features.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack Bridges</Name>
-<URL>http://192.168.2.222:8123/local/cisco/hs-bridges.xml</URL>
+<URL>https://raw.githubusercontent.com/javastraat/hshotline-xml/main/hs-bridges.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack Audio</Name>
-<URL>http://192.168.2.222:8123/local/cisco/hs-audio.xml</URL>
+<URL>https://raw.githubusercontent.com/javastraat/hshotline-xml/main/hs-audio.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack NL Users</Name>
-<URL>http://192.168.2.222:8123/local/cisco/hs-directory-nl.xml</URL>
+<URL>https://raw.githubusercontent.com/javastraat/hshotline-xml/main/hs-directory-nl.xml</URL>
 </MenuItem>
 </CiscoIPPhoneMenu>
