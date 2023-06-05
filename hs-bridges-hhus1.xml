@@ -1,0 +1,132 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Bridges US1</Title>
+<Prompt>Please select a bridge...</Prompt>
+<DirectoryEntry>
+<Name>PUBLIC 1</Name>
+<Telephone>301</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 2</Name>
+<Telephone>302</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 3</Name>
+<Telephone>303</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 4</Name>
+<Telephone>304</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 5</Name>
+<Telephone>305</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 6</Name>
+<Telephone>306</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 7</Name>
+<Telephone>307</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 8</Name>
+<Telephone>308</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 9</Name>
+<Telephone>309</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 10</Name>
+<Telephone>310</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 11 (HH INFORMATION)</Name>
+<Telephone>311</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 12 (ARES 1)</Name>
+<Telephone>312</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 13 (ARES 2)</Name>
+<Telephone>313</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 14 (SKYWARN 1)</Name>
+<Telephone>314</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC 15 (SKYWARN 2)</Name>
+<Telephone>315</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>CESKA REPUBLIKA</Name>
+<Telephone>324</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>SEVERE WEATHER DISCUSSION</Name>
+<Telephone>327</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>PUBLIC RACES</Name>
+<Telephone>331</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>GATHERING SPOT</Name>
+<Telephone>336</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WESTERN PA AREA</Name>
+<Telephone>337</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NE OKLAHOMA</Name>
+<Telephone>355</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>W7ZA GRAYS HARBOR ARC</Name>
+<Telephone>364</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>KD7ENI BRIDGE</Name>
+<Telephone>366</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>ARES PUBLIC</Name>
+<Telephone>367</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>HENRY CO GA</Name>
+<Telephone>381</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>SOUTH CAROLINA HAMS</Name>
+<Telephone>387</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>ALL HAMS LINKUP</Name>
+<Telephone>390</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>SWINE</Name>
+<Telephone>1306</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>FL STORM</Name>
+<Telephone>1312</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>VK NET</Name>
+<Telephone>1316</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>CO STATEWIDE</Name>
+<Telephone>1339</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NC STATEWIDE</Name>
+<Telephone>1346</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

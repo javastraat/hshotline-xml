@@ -1,0 +1,56 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Bridges X</Title>
+<Prompt>Please select a bridge...</Prompt>
+<DirectoryEntry>
+<Name>GROUPE ARAI VE2REH</Name>
+<Telephone>14050</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>CANADA PUBLIC</Name>
+<Telephone>14060</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NOVA SCOTIA PUBLIC</Name>
+<Telephone>14061</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>QUEBEC PUBLIQUE</Name>
+<Telephone>14062</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>ONTARIO PUBLIC</Name>
+<Telephone>14063</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>MANITOBA PUBLIC</Name>
+<Telephone>14064</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>SACKATCHEWAN PUBLIC</Name>
+<Telephone>14065</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>ALBERTA PUBLIC</Name>
+<Telephone>14066</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>BRITISH-COLUMBIA PUBLIC</Name>
+<Telephone>14067</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NORTHWEST TERR PUBLIC</Name>
+<Telephone>14068</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NEW-BRUNSWICK PUBLIC</Name>
+<Telephone>14069</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>CANADA WIDE EMERGENCY</Name>
+<Telephone>14099</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>HHX GROUP CONFERENCE</Name>
+<Telephone>14999</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

@@ -1,0 +1,28 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Bridges US2</Title>
+<Prompt>Please select a bridge...</Prompt>
+<DirectoryEntry>
+<Name>DISASTER COMM ACTION TEAM</Name>
+<Telephone>1349</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>EAST COAST REFLECTOR</Name>
+<Telephone>1362</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WV STATEWIDE</Name>
+<Telephone>1363</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>AMERICA LINK</Name>
+<Telephone>1367</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>HATS</Name>
+<Telephone>1369</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WESTERN NY</Name>
+<Telephone>1377</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

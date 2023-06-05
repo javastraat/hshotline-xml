@@ -1,0 +1,100 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Bridges EU</Title>
+<Prompt>Please select a bridge...</Prompt>
+<DirectoryEntry>
+<Name>Europe Public 1</Name>
+<Telephone>48001</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 2</Name>
+<Telephone>48002</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 3</Name>
+<Telephone>48003</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 4</Name>
+<Telephone>48004</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 5</Name>
+<Telephone>48005</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 6</Name>
+<Telephone>48006</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 7</Name>
+<Telephone>48007</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 8</Name>
+<Telephone>48008</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 9</Name>
+<Telephone>48009</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 10</Name>
+<Telephone>48010</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 11</Name>
+<Telephone>48011</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 12</Name>
+<Telephone>48012</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 13</Name>
+<Telephone>48013</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 14 (Emergency 1)</Name>
+<Telephone>48014</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Public 15 (Emergency 2)</Name>
+<Telephone>48015</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Special Event 1</Name>
+<Telephone>48016</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Special Event 2</Name>
+<Telephone>48017</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Special Event 3</Name>
+<Telephone>48018</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Special Event 4</Name>
+<Telephone>48019</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Europe Special Event 5</Name>
+<Telephone>48020</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Poland Conference</Name>
+<Telephone>48021</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Kent Uk</Name>
+<Telephone>48030</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Uk Wide</Name>
+<Telephone>48031</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Dutch Conference</Name>
+<Telephone>48033</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

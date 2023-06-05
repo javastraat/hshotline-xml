@@ -1,0 +1,56 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Features</Title>
+<Prompt>Please select a feature...</Prompt>
+<DirectoryEntry>
+<Name>Find-Me/Follow-Me (Toggle)</Name>
+<Telephone>*21</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Echo Test</Name>
+<Telephone>*43</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Server Identification</Name>
+<Telephone>*51</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>System Clock</Name>
+<Telephone>*60</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Speak Your Ext. Number</Name>
+<Telephone>*65</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Wake Up Calls</Name>
+<Telephone>*68</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Last Call Redial</Name>
+<Telephone>*69</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Set A Speed Dial</Name>
+<Telephone>*75</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Do Not Disturb Activate</Name>
+<Telephone>*78</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Do Not Disturb Deactivate</Name>
+<Telephone>*79</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Voicemail</Name>
+<Telephone>*97</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Speed Dial Prefix</Name>
+<Telephone>*0(XXX)</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Dial A.R.E.D.N. Extension</Name>
+<Telephone>88(XXXXXXX)</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

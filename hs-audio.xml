@@ -1,0 +1,112 @@
+<CiscoIPPhoneDirectory>
+<Title>Hamshack Audio</Title>
+<Prompt>Please select number to dial...</Prompt>
+<DirectoryEntry>
+<Name>WBZ AM 1030 Boston</Name>
+<Telephone>7000</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Audio Fidelity Test</Name>
+<Telephone>7001</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Old Time Radio</Name>
+<Telephone>7002</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>BBC World Service</Name>
+<Telephone>7003</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WUWF 88.1 NPR West Florida</Name>
+<Telephone>7004</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WHJJ AM 920 Providence</Name>
+<Telephone>7005</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Paranormal Radio</Name>
+<Telephone>7006</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>St. Louis Area Marine Traffic</Name>
+<Telephone>7007</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>K6CRS Audio Multi-Station </Name>
+<Telephone>7008</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>WAUC 102.1 The Outlaw</Name>
+<Telephone>7009</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Morse Code Practice</Name>
+<Telephone>7010</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>W4TII Audio Feeds Multi-Station</Name>
+<Telephone>7011</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>KNON 89.3 Dallas Texas</Name>
+<Telephone>7012</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Florida Keys Sheriff Fire</Name>
+<Telephone>7013</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>SQ9LM Audio Service Multi-Station</Name>
+<Telephone>7014</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Oldies 104 Topeka Kansas</Name>
+<Telephone>7015</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Linux in the Ham Shack Podcast</Name>
+<Telephone>7016</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NR0Q Audio Services Multi-Station</Name>
+<Telephone>7017</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Sacramento Area Public Safety</Name>
+<Telephone>7018</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Northern California NOAA Weather Radio</Name>
+<Telephone>7019</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Los Angeles-West County InterAgency Fire</Name>
+<Telephone>7020</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Shasta/Trinity Tehama-Glenn CAL-FIRE DSP</Name>
+<Telephone>7021</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Placer County Public Safety</Name>
+<Telephone>7022</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>NPR News Hourly - Washington D.C.</Name>
+<Telephone>7023</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>MeloRadio - Krakow Poland</Name>
+<Telephone>7024</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>RMF 70s - Poland</Name>
+<Telephone>7025</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>KE8SEW Audio</Name>
+<Telephone>7026</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>
