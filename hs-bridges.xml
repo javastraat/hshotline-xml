@@ -3,18 +3,18 @@
 <Prompt>Select your option...</Prompt>
 <MenuItem>
 <Name>Hamshack EU Bridges</Name>
-<URL>http://192.168.2.212/hshotline-xml/hs-bridges-hheu.xml</URL>
+<URL>http://hs-menu.einstein.amsterdam/hshotline-xml/hs-bridges-hheu.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack X Bridges</Name>
-<URL>http://192.168.2.212/hshotline-xml/hs-bridges-hhx.xml</URL>
+<URL>http://hs-menu.einstein.amsterdam/hshotline-xml/hs-bridges-hhx.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack US 1 Bridges</Name>
-<URL>http://192.168.2.212/hshotline-xml/hs-bridges-hhus1.xml</URL>
+<URL>http://hs-menu.einstein.amsterdam/hshotline-xml/hs-bridges-hhus1.xml</URL>
 </MenuItem>
 <MenuItem>
 <Name>Hamshack US 2 Bridges</Name>
-<URL>http://192.168.2.212/hshotline-xml/hs-bridges-hhus2.xml</URL>
+<URL>http://hs-menu.einstein.amsterdam/hshotline-xml/hs-bridges-hhus2.xml</URL>
 </MenuItem>
 </CiscoIPPhoneMenu>
